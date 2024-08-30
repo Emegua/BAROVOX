@@ -1,0 +1,6 @@
+Spectogram/
+wandb/
+saved_model*
+*_pycache*
+data/*
+data/

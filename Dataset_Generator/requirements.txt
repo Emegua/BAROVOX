@@ -1,0 +1,6 @@
+numpy
+glob2
+soundfile
+scipy
+configparser
+matplotlib
